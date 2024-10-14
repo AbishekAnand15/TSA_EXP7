@@ -78,18 +78,19 @@ plt.show()
 
 ### OUTPUT:
 
-#### GIVEN DATA
-![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/55464c15-0b8e-494a-9403-a83ff3cdf99a)
 #### Augmented Dickey-Fuller test
-![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/a35cd199-a5c7-48af-94f7-e9876e266333)
+![Screenshot 2024-10-14 105432](https://github.com/user-attachments/assets/6df65f91-9ba4-4e70-8d66-2056b64d9bd7)
+
 
 #### PACF - ACF
-![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/836855ba-78bf-4dae-b447-bfe0212e99b3)
-![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/bbb16425-6806-4f62-90c9-121341f09106)
+![Screenshot 2024-10-14 111202](https://github.com/user-attachments/assets/f6caaf1c-9fad-4bc3-958c-6ddf53c40bfb)
+![Screenshot 2024-10-14 111234](https://github.com/user-attachments/assets/8a7e8150-d3a9-4a1b-b06d-410e78af389c)
+
 #### Mean Squared Error
-![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/e22306cf-9799-48dd-ad79-8ea4861a2e01)
+![Screenshot 2024-10-14 111242](https://github.com/user-attachments/assets/2f72573b-d543-4dda-acdc-f3f807ae828e)
+
 #### PREDICTION
-![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/9749b788-f6c8-4309-a735-b7e8146509b1)
+![Screenshot 2024-10-14 111249](https://github.com/user-attachments/assets/a131f459-b6db-4ff2-86b0-bdb075cb72e8)
 
 
 ### RESULT:
